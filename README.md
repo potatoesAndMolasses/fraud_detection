@@ -26,14 +26,13 @@ O foco principal é desenvolver soluções que consigam identificar padrões an�
 
 ## 📊 Métricas Relevantes
 
--Devido ao forte desbalanceamento de classes, os projetos aqui priorizam:
--Recall (Sensibilidade) — para minimizar falsos negativos
--F1-score — equilíbrio entre precisão e recall
--AUC-ROC / PR-AUC — avaliação global da separabilidade do modelo
--Matriz de Confusão — análise dos tipos de erro
+- Recall (Sensibilidade) — para minimizar falsos negativos
+- F1-score — equilíbrio entre precisão e recall
+- AUC-ROC / PR-AUC — avaliação global da separabilidade do modelo
+- Matriz de Confusão — análise dos tipos de erro
 
 ---
 
 ## 📚 Referências
 
-Kaggle Datasets: https://www.kaggle.com/
+- Kaggle Datasets: https://www.kaggle.com/
